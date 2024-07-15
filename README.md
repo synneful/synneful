@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @synneful
-- 👀 I’m interested in web development, cybersecurity and game development
+- 👋 Hi, you can call me Akmal
+- 👀 I’m interested in backend development, machine learning, software engineering and game development
 - 🌱 I’m currently learning computer engineering, self studying programming
-- 💞️ I’m looking to collaborate on web development and software development projects
+- 💞️ I’m looking to collaborate on web software development projects
 - 📫 How to reach me: email -> ahmadakmaluddinbujang@gmail.com
 
 <!---
